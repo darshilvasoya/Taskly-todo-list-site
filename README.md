@@ -21,14 +21,20 @@
 To run the project locally:
 
 ```bash
+
 git clone https://github.com/your-username/taskly.git
 cd taskly
 npm install
 npm start
 
+```
+
 ## To build for production:
 ```bash
+
 npm run build
+
+```
 
 ## 📁 Folder Structure
 
