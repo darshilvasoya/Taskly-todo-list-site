@@ -46,6 +46,8 @@ npm run build
 
 ## 📁 Folder Structure
 
+```bash
+
 taskly/
 ├── public/
 │   └── index.html
@@ -60,6 +62,8 @@ taskly/
 ├── tailwind.config.js
 ├── postcss.config.js
 ├── README.md
+
+```
 
 ## 🛠 Built With
 
@@ -76,6 +80,6 @@ Created by Darshil Vasoya
 
 ## 📩 Contact
 
----
-
 http.dvx@gmail.com
+
+---
