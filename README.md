@@ -22,8 +22,16 @@ To run the project locally:
 
 ```bash
 
-git clone https://github.com/your-username/taskly.git
-cd taskly
+git clone https://github.com/darshilvasoya/Taskly-todo-list-site.git
+
+```
+```bash
+cd Go inside your folder where you saved.
+
+```
+
+```bash
+
 npm install
 npm start
 
