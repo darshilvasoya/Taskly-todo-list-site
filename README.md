@@ -80,6 +80,6 @@ Created by Darshil Vasoya
 
 ## 📩 Contact
 
-http.dvx@gmail.com
+workmail.darsh@gmail.com
 
 ---
